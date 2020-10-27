@@ -1,0 +1,8 @@
+#email-test {
+  text-align: center;
+  margin: 0 20%;
+}
+#email-test button, #email-test input {
+  box-sizing: border-box;
+  width: 100%;
+}

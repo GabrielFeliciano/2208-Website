@@ -1,0 +1,7 @@
+header {
+  display: flow-root;
+  padding-bottom: 2rem;
+  background-color: mediumslateblue;
+  margin: 0 10%;
+  background-image: repeating-radial-gradient(rgba(255, 248, 152, 0.2), transparent 100%);
+}
